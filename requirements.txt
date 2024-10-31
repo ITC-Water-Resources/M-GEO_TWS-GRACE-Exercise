@@ -1,0 +1,4 @@
+ipykernel
+git+https://github.com/ITC-Water-Resources/shxarray.git
+
+
